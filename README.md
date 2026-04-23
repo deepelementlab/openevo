@@ -8,8 +8,6 @@
 
 **OpenEvo** delivers **memory**, **closed-loop learning**, and **structured notes (Notes/Wiki)** as a self-contained, deployable service, with an HTTP and plugin model plus bundled **Claude Code** and **OpenClaw** examples so the chat pipeline can read and write context automatically—no manual tool invocation on every turn.
 
-**Brand assets** (web, docs, favicon): see [docs/BRANDING.md](docs/BRANDING.md). Repository paths: `../assets/openevo-logo-wordmark.png` (wordmark) and `../assets/openevo-logo.png` (icon).
-
 ## Install
 
 ```bash
@@ -114,4 +112,4 @@ Plugins use `OPENEVO_BASE_URL` to point at this service.
 
 ## License
 
-MIT
+GPL-3.0 license.
