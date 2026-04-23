@@ -1,14 +1,12 @@
 # OpenEvo
 
-**English:** [README.en.md](README.en.md)
+**English:** [README.md](README.md)
 
 <p align="center">
   <img width="1376" height="768" alt="Clipboard - 2026-04-23 14 54 40" src="https://github.com/user-attachments/assets/b14445ff-95f7-485c-9749-65cfb3adab9e" />
 </p>
 
 **OpenEvo** 将 **记忆（Memory）**、**闭环学习（Learning）** 与 **结构化笔记（Notes/Wiki）** 以可独立部署的服务交付；以 HTTP API 与可扩展的插件为产品边界，并随仓库提供 **Claude Code hooks** 与 **OpenClaw context-engine** 等配套示例，在对话管线中自动完成写入与检索，无需在聊天中反复显式指定工具。
-
-**Logo 资源**（网站 / 文档 / favicon 用法见 [docs/BRANDING.md](docs/BRANDING.md)）：`../assets/openevo-logo-wordmark.png`（横版字标）、`../assets/openevo-logo.png`（纯图形标）。
 
 ## 安装
 
@@ -114,4 +112,4 @@ bash scripts/install-plugins.sh
 
 ## 许可
 
-MIT
+GPL-3.0 license.
