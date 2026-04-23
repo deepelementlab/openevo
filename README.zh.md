@@ -105,10 +105,8 @@ bash scripts/install-plugins.sh
 
 ## 文档
 
-- [OpenEvo 产品展示主页](../openos/index.html#docs)（对外介绍，静态页，中/英切换；站内置 README 要点板块）
 - [架构说明](docs/ARCHITECTURE.md)
 - [插件指南](docs/PLUGIN_GUIDE.md)
-- [品牌与 Logo](docs/BRANDING.md)
 
 ## 许可
 
