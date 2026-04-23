@@ -105,10 +105,8 @@ Plugins use `OPENEVO_BASE_URL` to point at this service.
 
 ## Further documentation
 
-- [OpenEvo product page](../openos/index.html#docs) — static landing (Chinese / English; in-page README summary)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Plugin guide](docs/PLUGIN_GUIDE.md)
-- [Branding & logos](docs/BRANDING.md)
 
 ## License
 
