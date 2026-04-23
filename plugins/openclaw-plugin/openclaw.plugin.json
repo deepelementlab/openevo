@@ -1,0 +1,6 @@
+{
+  "id": "openevo-context",
+  "version": "0.1.0",
+  "kind": "context-engine",
+  "entry": "./index.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "openevo-memory",
+  "version": "0.1.0",
+  "description": "OpenEvo: automatic episodic memory via Claude Code hooks",
+  "author": { "name": "OpenEvo" }
+}
